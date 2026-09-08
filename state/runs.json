@@ -41,8 +41,9 @@
     },
     {
       "account": "account2",
-      "status": "running",
-      "started_at": "2026-09-08T17:41:08.236255+00:00"
+      "status": "completed",
+      "started_at": "2026-09-08T17:41:08.236255+00:00",
+      "completed_at": "2026-09-08T18:32:49.310770+00:00"
     }
   ]
 }
